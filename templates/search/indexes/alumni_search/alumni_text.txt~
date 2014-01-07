@@ -1,0 +1,5 @@
+{{ object.lName }}
+{{ object.fName }}
+{{ object.state }}
+{{ object.branch }}
+{{ object.city }}

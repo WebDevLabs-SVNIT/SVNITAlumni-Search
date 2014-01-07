@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SVNIT|Alumni Association</title>
+<style>
+td{
+padding:10px;
+
+}
+
+
+</style>
+</head>
+<body>
+{% block content %}
+{% endblock %}
+</body>
+</html>

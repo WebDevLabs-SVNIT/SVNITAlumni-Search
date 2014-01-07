@@ -1,0 +1,7 @@
+{{ object.lName }}
+{{ object.fName }}
+{{ object.yop }}
+{{ object.state }}
+{{ object.branch }}
+{{ object.city }}
+{{ object.uid }}
